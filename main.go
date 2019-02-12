@@ -1,3 +1,16 @@
+// kit-payment is a go microservice for creating transactions. About:
+//
+// * Account generation
+//
+// * Multiple currency support
+//
+// * No users (auth)
+//
+// * REST API
+//
+// * Extendable into blockchain app
+//
+// See README at https://github.com/MarinX/kit-payment for more info.
 package main
 
 import (
