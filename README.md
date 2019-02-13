@@ -1,5 +1,6 @@
 # Payment service with go-kit
 [![Build Status](https://travis-ci.org/MarinX/kit-payment.svg?branch=master)](https://travis-ci.org/MarinX/kit-payment)
+[![Go Report Card](https://goreportcard.com/badge/github.com/MarinX/kit-payment)](https://goreportcard.com/report/github.com/MarinX/kit-payment)
 [![GoDoc](https://godoc.org/github.com/MarinX/kit-payment?status.svg)](https://godoc.org/github.com/MarinX/kit-payment)
 [![License MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
 
